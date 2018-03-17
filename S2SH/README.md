@@ -1,5 +1,5 @@
 # S2SH
-Struts2,Hibernate,Spring三大框架的整合总是很麻烦，在此提供一个已经整合好三大框架的包，可以直接下载导入Myeclipse使用，项目基于Maven做依赖管理。
+Struts2,Hibernate,Spring三大框架的整合总是很麻烦，在此提供一个已经整合好三大框架的包，项目基于Maven做依赖管理。
 
 其中包含的内容如下：
   
